@@ -87,6 +87,11 @@ graph TD
 
 ## 3. Table of Contents
 
+> [!TIP]
+> 📖 **[Consolidated Test Plan (Compiled)](./A1_System_Test_Plan_Compiled.md)**  
+> If you prefer to scroll and read the entire test plan as a single unified document rather than clicking into individual files, click the link above. To rebuild this compiled document after modifying any files, execute: `python compile_test_plan.py` from the root of the project.
+
+
 ### [1. Introduction](./01_Introduction)
 * [1.1 Scope and Purpose](./01_Introduction/A1_Scope_and_Purpose.md)
 * [1.2 Abbreviations](./01_Introduction/GLOBAL_Abbreviations.md)
