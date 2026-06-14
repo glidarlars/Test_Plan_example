@@ -1,3 +1,6 @@
+__Note!__ This is an example Test Plan, the Vaccum cleaner A1 has newer existed, the names, plans, core members have all been met by me in several differnt project and or comapnies. The below is a mix to show an example of using GIT as a TestPlan keeper. None of the system descriptions or pictures are of real projects or products even if some names is of real humain beeings.
+
+
 # System Test Plan - Project A1
 
 Welcome to the central landing page and Single Source of Truth (SSoT) for the **Project A1 System Test Plan**. 
